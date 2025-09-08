@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pyvmomi
+python-dotenv
+reportlab
+paramiko
+requests
+pyyaml
